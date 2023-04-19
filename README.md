@@ -53,8 +53,8 @@ The competition had questions ranging from easy, average, to hard difficulty lev
   <img src="#">
 </p>
 
-## ✨》Donate
-If you find this project useful and would like to support further development, please consider making a donation via `Patreon` or `Ko-fi`. Your contribution will help keep this project alive and enable us to add more features and content.
+## ✨》Donate 
+If you found value in my project, I would be grateful for your support via Patreon or Ko-fi. Any contribution, no matter how small, will help me continue to improve and add more features to this project. Thank you for your consideration.
 - [Patreon](https://www.patreon.com/PP_Namias)
 - [Ko-fi](https://ko-fi.com/PP_Namias)
 
