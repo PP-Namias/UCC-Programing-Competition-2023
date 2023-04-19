@@ -43,10 +43,10 @@
 I am thrilled to have achieved first place in the C++ Programming Competition! The challenges were tough, but I enjoyed every minute of the competition, and I'm grateful for the opportunity to test my skills and push myself to new heights.
 
 The competition had questions ranging from easy, average, to hard difficulty levels. I'm proud of myself for being able to solve all the questions with ease.
-  - [x] [Easy](/blob/main/OddEvenChecker.cpp)
-  - [x] [Average](/blob/main/PrintingNumbersWithoutLooping.cpp)
-  - [x] [Hard](/blob/main/StudentGradeAverage.cpp)
-  
+  - [x] [Easy](OddEvenChecker.cpp)
+  - [x] [Average](PrintingNumbersWithoutLooping.cpp)
+  - [x] [Hard](StudentGradeAverage.cpp)
+
 ## <img src="https://cdn.discordapp.com/emojis/1028680849195020308.png" width="25px" height="25px"> 》Certificate
 <br />
 <p align="center">
