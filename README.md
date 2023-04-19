@@ -31,7 +31,7 @@
     - __C++__
     - __Java__
   - At the Event Committee's discretion, Participants may be allowed to bring/use their own compiler (or interpreter) in the event provided that they notify the Event Committee in writing before the event and indicate the make, version number and key features of their chosen compiler.
-  - Participants may not seek hints and/or ask for leads during the event. They may , however, submit questions about procedure and/or clarification, in writing, to the Event Committee who will ensure that all participants receive the same information as deemed necessary.
+  - Participants may not seek hints and/or ask for leads during the event. They may, however, submit questions about procedure and/or clarification, in writing, to the Event Committee who will ensure that all participants receive the same information as deemed necessary.
 
 ### __Evaluation of Participants' Programs__
   - All participants will be given the same set of problems to solve.
@@ -43,9 +43,9 @@
 I am thrilled to have achieved first place in the C++ Programming Competition! The challenges were tough, but I enjoyed every minute of the competition, and I'm grateful for the opportunity to test my skills and push myself to new heights.
 
 The competition had questions ranging from easy, average, to hard difficulty levels. I'm proud of myself for being able to solve all the questions with ease.
-  - [x] [Easy](OddEvenChecker.cpp)
-  - [x] [Average](PrintingNumbersWithoutLooping.cpp)
-  - [x] [Hard](StudentGradeAverage.cpp)
+  - [x] [`Easy`](OddEvenChecker.cpp)
+  - [x] [`Average`](PrintingNumbersWithoutLooping.cpp)
+  - [x] [`Hard`](StudentGradeAverage.cpp)
 
 ## <img src="https://cdn.discordapp.com/emojis/1028680849195020308.png" width="25px" height="25px"> 》Certificate
 <br />
@@ -54,7 +54,7 @@ The competition had questions ranging from easy, average, to hard difficulty lev
 </p>
 
 ## ✨》Donate 
-If you found value in my project, I would be grateful for your support via Patreon or Ko-fi. Any contribution, no matter how small, will help me continue to improve and add more features to this project. Thank you for your consideration.
+If you found value in my project, I would be grateful for your support via `Patreon` or `Ko-fi`. Any contribution, no matter how small, will help me continue to improve and add more features to this project. Thank you for your consideration.
 - [Patreon](https://www.patreon.com/PP_Namias)
 - [Ko-fi](https://ko-fi.com/PP_Namias)
 
