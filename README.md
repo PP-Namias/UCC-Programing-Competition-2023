@@ -4,21 +4,10 @@
 </p>
 
 <p align="center">
-  <a aria-label="Follow PP Namias on Twitter" href="https://twitter.com/PP_Namias" target="_blank"><img alt="" src="https://img.shields.io/badge/Follow%20@PP_Namias-black.svg?style=for-the-badge&logo=Twitter"></a>
-  <a aria-label="Follow PP Namias on Github" href="https://github.com/PP-Namias" target="_blank"><img alt="" src="https://img.shields.io/badge/Follow%20@PP_Namias-black.svg?style=for-the-badge&logo=Github"></a>
+  <a aria-label="Follow PP Namias on Twitter" href="https://twitter.com/PP_Namias" target="_blank"><img alt="Follow PP Namias on Twitter" src="https://img.shields.io/badge/Follow%20@PP_Namias-black.svg?style=for-the-badge&logo=Twitter"></a>
+  <a aria-label="Follow PP Namias on Github" href="https://github.com/PP-Namias" target="_blank"><img alt="Follow PP Namias on Github" src="https://img.shields.io/badge/Follow%20@PP_Namias-black.svg?style=for-the-badge&logo=Github"></a>
   <br>
-  <a href="https://github.com/PP-Namias/Cpp-Program" target="blank"><img src="https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square" alt="C++ Program All Contributors"/></a>
-  <a href="https://github.com/PP-Namias/Cpp-Program/blob/master/LICENSE" target="blank"><img src="https://img.shields.io/github/license/PP-Namias/Cpp-Program?style=flat-square" alt="C++ Program license"/></a>
-  <a href="https://github.com/PP-Namias/Cpp-Program/fork" target="blank"><img src="https://img.shields.io/github/forks/PP-Namias/Cpp-Program?style=flat-square" alt="C++ Program forks"/></a>
-  <a href="https://github.com/PP-Namias/Cpp-Program/stargazers" target="blank"><img src="https://img.shields.io/github/stars/PP-Namias/Cpp-Program?style=flat-square" alt="C++ Program stars"/></a>
-  <a href="https://github.com/PP-Namias/Cpp-Program/issues" target="blank"><img src="https://img.shields.io/github/issues/PP-Namias/Cpp-Program?style=flat-square" alt="C++ Program issues"/></a>
-  <a href="https://github.com/PP-Namias/Cpp-Program/pulls" target="blank"><img src="https://img.shields.io/github/issues-pr/PP-Namias/Cpp-Program?style=flat-square" alt="C++ Program pull-requests"/></a>
-  <br />
-  <b>UCC Programing Competition</b> is a website that showcases a mesmerizing animation of a galaxy using only HTML, CSS, and JavaScript. It features a beautiful, star-filled background with moving planets and other celestial objects.
-  <br />
-  <a href="https://github.com/PP-Namias/Cpp-Program/issues">Report Bug</a>
-  ·
-  <a href="https://github.com/PP-Namias/Cpp-Program/issues">Request Feature</a>
+  Thank you to the organizers of the competition for putting on such a great event, and for giving me the chance to challenge myself and showcase my abilities. I am very grateful for the opportunity to participate in this competition and I am very happy to have won the 1st Runner Up prize.
 </p>
 
 ## <img src="https://cdn.discordapp.com/emojis/859424401186095114.png" width="20px" height="20px"> 》Description
@@ -33,7 +22,7 @@ __Programming Environment__
   - The event will be composed of the stages with time allotment each:
     - __Easy (30 minutes)__
     - __Average (45 minutes)__
-    - __Hard (l Hour)__
+    - __Hard (1 Hour)__
   - Each participant will be allowed to use only a single computer and must write and test their programs on that machine, wholely within the event room.
   - PC compatible computers running Windows 10 will be used. At the Event
   - Committee's discretion, Participants may be allowed to use their own computer in the event, provided that they notify the Event Committee in writing at least one week prior to the event, indicating the make and key features of their machine.
