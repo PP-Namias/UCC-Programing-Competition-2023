@@ -59,4 +59,4 @@ If you found value in my project, I would be grateful for your support via `Patr
 - [Ko-fi](https://ko-fi.com/PP_Namias)
 
 ## 🔐 》License
-Distributed under the MIT License. See [`LICENSE`](https://github.com/PP-Namias/Cpp-Program/blob/main/LICENSE) for more information.
+Distributed under the MIT License. See [`LICENSE`](https://github.com/PP-Namias/UCC-Programing-Competition/blob/main/LICENSE) for more information.
