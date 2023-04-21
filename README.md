@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://cdn.discordapp.com/attachments/1045298870533509130/1068425329909174392/egg_-_Copy-modified.png" width="200" height="200">
+  <img src="https://cdn.discordapp.com/attachments/1045298870533509130/1068425329909174392/egg_-_Copy-modified.png" width="250" height="250">
   <h1 align="center"><b>UCC Programing Competition</b></h1>
 </p>
 
