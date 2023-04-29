@@ -1,13 +1,13 @@
-<p align="center">
-  <img src="https://cdn.discordapp.com/attachments/1045298870533509130/1068425329909174392/egg_-_Copy-modified.png" width="250" height="250">
-  <h1 align="center"><b>UCC Programing Competition</b></h1>
-</p>
+<h1 align="center">
+  <img src="./Banner.jpg">
+  <b>UCC Programing Competition</b>
+</h1>
 
 <p align="center">
   <a aria-label="Follow PP Namias on Twitter" href="https://twitter.com/PP_Namias" target="_blank"><img alt="Follow PP Namias on Twitter" src="https://img.shields.io/badge/Follow%20@PP_Namias-black.svg?style=for-the-badge&logo=Twitter"></a>
   <a aria-label="Follow PP Namias on Github" href="https://github.com/PP-Namias" target="_blank"><img alt="Follow PP Namias on Github" src="https://img.shields.io/badge/Follow%20@PP_Namias-black.svg?style=for-the-badge&logo=Github"></a>
   <br>
-  Thank you to the organizers of the competition for putting on such a great event, and for giving me the chance to challenge myself and showcase my abilities. I am very grateful for the opportunity to participate in this competition and I am very happy to have won the 1st Runner Up prize.
+  Thank you to the organizers of the competition for putting on such a great event, and for giving me the chance to challenge myself and showcase my abilities. I am very grateful for the opportunity to participate in this competition and I am very happy to have won the 2nd Place prize.
 </p>
 
 ## <img src="https://cdn.discordapp.com/emojis/859424401186095114.png" width="20px" height="20px"> 》Description
@@ -39,7 +39,7 @@
   - Programs will be tested by MIS Student Assistants (appointed by the Event Facilitator) by running them with a set of test inputs. The output for each test case will be marked as right or wrong using keys prepared before the event.
   - A program will be considered wrong if it fails to work on one or more of the test cases.
 
-## <img src="https://cdn.discordapp.com/emojis/852881450667081728.gif" width="20px" height="20px"> 》Ranking: 1st Runner Up
+## <img src="https://cdn.discordapp.com/emojis/852881450667081728.gif" width="20px" height="20px"> 》Ranking: 2nd Place
 I am thrilled to have achieved first place in the C++ Programming Competition! The challenges were tough, but I enjoyed every minute of the competition, and I'm grateful for the opportunity to test my skills and push myself to new heights.
 
 The competition had questions ranging from easy, average, to hard difficulty levels. I'm proud of myself for being able to solve all the questions with ease.
@@ -48,9 +48,8 @@ The competition had questions ranging from easy, average, to hard difficulty lev
   - [x] [`Hard`](StudentGradeAverage.cpp)
 
 ## <img src="https://cdn.discordapp.com/emojis/1028680849195020308.png" width="25px" height="25px"> 》Certificate
-<br />
 <p align="center">
-  <img src="#">
+  <img src="./Certificate.jpg">
 </p>
 
 ## ✨》Donate 
