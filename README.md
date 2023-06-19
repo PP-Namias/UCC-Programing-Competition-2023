@@ -14,10 +14,10 @@
   Thank you to the organizers of the competition for putting on such a great event, and for giving me the chance to challenge myself and showcase my abilities. I am very grateful for the opportunity to participate in this competition and I am very happy to have won the 2nd Place prize.
 </p>
 
-
 <details>
   <summary>
-    <img src="https://cdn.discordapp.com/emojis/859424401186095114.png" width="20px" height="20px"> <h2>Description</h2>
+    <img src="https://cdn.discordapp.com/emojis/859424401186095114.png" width="20px" height="20px">
+    <h2>》Description</h2>
   </summary>
 
   <h3><strong>General</strong></h3>
