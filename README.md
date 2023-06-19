@@ -62,16 +62,16 @@
 I am thrilled to have achieved first place in the C++ Programming Competition! The challenges were tough, but I enjoyed every minute of the competition, and I'm grateful for the opportunity to test my skills and push myself to new heights.
 
 The competition had questions ranging from easy, average, to hard difficulty levels. I'm proud of myself for being able to solve all the questions with ease.
-  - [x] [`Easy`](OddEvenChecker.cpp)
-  - [x] [`Average`](PrintingNumbersWithoutLooping.cpp)
-  - [x] [`Hard`](StudentGradeAverage.cpp)
+- [x] [`Easy`](OddEvenChecker.cpp)
+- [x] [`Average`](PrintingNumbersWithoutLooping.cpp)
+- [x] [`Hard`](StudentGradeAverage.cpp)
 
 ## <img src="https://cdn.discordapp.com/emojis/1028680849195020308.png" width="25px" height="25px"> 》Certificate
 <p align="center">
-  <img src="./Certificate.jpg">
+  <img src="./Certificate.jpg" alt="Certificate">
 </p>
 
-## ✨》Donate 
+## ✨》Donate
 If you found value in my project, I would be grateful for your support via `Patreon` or `Ko-fi`. Any contribution, no matter how small, will help me continue to improve and add more features to this project. Thank you for your consideration.
 - [Patreon](https://www.patreon.com/PP_Namias)
 - [Ko-fi](https://ko-fi.com/PP_Namias)
