@@ -1,14 +1,19 @@
 <h1 align="center">
-  <img src="./Banner.png">
-  <b>UCC Programing Competition 2023</b>
+  <img src="./Banner.png" alt="UCC Programming Competition 2023">
+  <b>UCC Programming Competition 2023</b>
 </h1>
 
 <p align="center">
-  <a aria-label="Follow PP Namias on Twitter" href="https://twitter.com/PP_Namias" target="_blank"><img alt="Follow PP Namias on Twitter" src="https://img.shields.io/badge/Follow%20@PP_Namias-black.svg?style=for-the-badge&logo=Twitter"></a>
-  <a aria-label="Follow PP Namias on Github" href="https://github.com/PP-Namias" target="_blank"><img alt="Follow PP Namias on Github" src="https://img.shields.io/badge/Follow%20@PP_Namias-black.svg?style=for-the-badge&logo=Github"></a>
+  <a aria-label="Follow PP Namias on Twitter" href="https://twitter.com/PP_Namias" target="_blank">
+    <img alt="Follow PP Namias on Twitter" src="https://img.shields.io/badge/Follow%20@PP_Namias-black.svg?style=for-the-badge&logo=Twitter">
+  </a>
+  <a aria-label="Follow PP Namias on GitHub" href="https://github.com/PP-Namias" target="_blank">
+    <img alt="Follow PP Namias on GitHub" src="https://img.shields.io/badge/Follow%20@PP_Namias-black.svg?style=for-the-badge&logo=GitHub">
+  </a>
   <br>
   Thank you to the organizers of the competition for putting on such a great event, and for giving me the chance to challenge myself and showcase my abilities. I am very grateful for the opportunity to participate in this competition and I am very happy to have won the 2nd Place prize.
 </p>
+
 
 <details>
   <summary>
